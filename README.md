@@ -54,7 +54,7 @@ Passionnée par l'ingénierie des données et les pratiques DevOps, je conçois 
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=NASRHOUDA&theme=radical&hide_border=true)](https://git.io/streak-stats)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NASRHOUDA&layout=compact&langs_count=8&theme=radical&hide_border=true)](https://github.com/NASRHOUDA)
+[![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NASRHOUDA&theme=radical)](https://github.com/NASRHOUDA)
 
 ---
 
