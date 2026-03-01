@@ -54,7 +54,19 @@ Passionnée par l'ingénierie des données et les pratiques DevOps, je conçois 
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=NASRHOUDA&theme=radical&hide_border=true)](https://git.io/streak-stats)
 
-[![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NASRHOUDA&theme=radical)](https://github.com/NASRHOUDA)
+---
+
+## 💬 Langages utilisés dans mes projets
+
+| Langage | Répartition |
+|---------|-------------|
+| ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) JavaScript | `████████████░░` 45% |
+| ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) Python | `████████░░░░░░` 30% |
+| ![TS](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) TypeScript | `███░░░░░░░░░░░` 10% |
+| ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) Java | `██░░░░░░░░░░░░` 7% |
+| ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white) C | `█░░░░░░░░░░░░░` 4% |
+| ![HTML](https://img.shields.io/badge/HTML%2FCSS-E34F26?style=flat-square&logo=html5&logoColor=white) HTML/CSS | `█░░░░░░░░░░░░░` 3% |
+| ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white) Jupyter | `░░░░░░░░░░░░░░` 1% |
 
 ---
 
