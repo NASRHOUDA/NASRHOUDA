@@ -2,7 +2,7 @@
 
 **Data Engineer & Cloud DevOps** | 🏫 INPT - Systèmes Ubiquitaires et Distribués (Cloud & IoT) | 📍 Casablanca, Maroc
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/houda-nasr)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/houda-nasr-16b9a032a/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NASRHOUDA)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:houdanasr520@gmail.com)
 
@@ -20,7 +20,7 @@
 
 ### **Cloud & Infrastructure**
 ▸ Conteneurisation : Docker, Kubernetes
-▸ Cloud Providers : Microsoft Azure, Oracle Cloud
+▸ Cloud Providers : AWS, Oracle Cloud
 ▸ Infrastructure as Code : Docker Compose
 ▸ CI/CD : GitHub Actions, GitLab CI/CD
 
@@ -29,7 +29,7 @@ text
 ### **Data Engineering & Big Data**
 ▸ Orchestration : Apache Airflow
 ▸ Bases de données : MongoDB, MySQL, HBase, PostgreSQL
-▸ Big Data : Hadoop, HDFS, MapReduce
+▸ Big Data : Basiques en Hadoop, HDFS, MapReduce
 ▸ Monitoring : Prometheus, Grafana
 ▸ Visualisation : Streamlit, Tableaux de bord interactifs
 
@@ -41,13 +41,11 @@ text
 ▸ Frontend : React.js
 ▸ APIs : REST, API Design
 
-text
+
 
 ### **Outils & Pratiques DevOps**
 ▸ Versioning : Git, GitHub, GitLab
 ▸ Tests : Tests automatisés, Pytest
-▸ Sécurité : Trivy (scan de vulnérabilités)
-▸ Qualité : SonarCloud
 ▸ Automatisation : Web Scraping (BeautifulSoup), RPA
 
 text
@@ -57,7 +55,7 @@ text
 ▸ Design Patterns : Singleton, Factory, DAO, Strategy
 ▸ Architectures : Microservices, N-Tiers, MVC
 
-text
+
 
 ---
 
@@ -71,7 +69,7 @@ text
 | **Bases de données NoSQL** | MongoDB, HBase | ⚡ Avancé |
 | **Bases de données SQL** | MySQL, PostgreSQL | ⚡ Avancé |
 | **Monitoring** | Prometheus, Grafana | 🚀 Intermédiaire |
-| **Cloud** | Azure, Oracle Cloud | 🚀 Intermédiaire |
+| **Cloud** | AWS Oracle Cloud | 🚀 Intermédiaire |
 | **Big Data** | Hadoop, HDFS, MapReduce | 🚀 Intermédiaire |
 | **Machine Learning** | Bases de ML | 🌱 Débutant |
 
@@ -90,7 +88,7 @@ DevOps:
   - Mise en place de CI/CD (tests automatisés, build, déploiement)
   - Containerisation d'applications avec Docker
   - Orchestration de conteneurs multi-services
-  - Scan de sécurité et analyse de code
+
 
 Développement:
   - APIs RESTful avec Node.js/Express et Spring Boot
@@ -107,7 +105,7 @@ text
 ▸ Advanced Kubernetes (Helm, Operators)
 📫 Me contacter
 📧 Email : houdanasr520@gmail.com
-💼 LinkedIn : linkedin.com/in/houda-nasr
+💼 LinkedIn : https://www.linkedin.com/in/houda-nasr-16b9a032a/
 🌐 Portfolio : mon-portfolio-dzf4.vercel.app
 
 🗣️ Langues
