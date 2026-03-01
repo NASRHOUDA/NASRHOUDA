@@ -52,9 +52,9 @@ Passionnée par l'ingénierie des données et les pratiques DevOps, je conçois 
 
 ## 📈 GitHub Stats
 
-![Houda's GitHub Stats](https://github-readme-stats.vercel.app/api?username=NASRHOUDA&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117)
+[![GitHub Streak](https://streak-stats.demolab.com?user=NASRHOUDA&theme=radical&hide_border=true)](https://git.io/streak-stats)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NASRHOUDA&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0D1117)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NASRHOUDA&layout=compact&langs_count=8&theme=radical&hide_border=true)](https://github.com/NASRHOUDA)
 
 ---
 
