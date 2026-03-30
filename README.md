@@ -2,7 +2,7 @@
 
 # Houda NASR
 
-**Data Engineer · Cloud DevOps · Full Stack**
+**Data Engineer · Cloud DevOps **
 
 *Étudiante ingénieure 2ème année — INPT, Filière SUD (Cloud & IoT) · Casablanca, Maroc*
 
@@ -29,11 +29,11 @@ Je conçois des **pipelines de données robustes**, des **architectures microser
 
 | Projet | Description | Stack |
 |--------|-------------|-------|
-| [🔐 KDD Cup 1999 — Intrusion Detection](https://github.com/NASRHOUDA/kdd-cup-1999-intrusion-detection) | Détection d'intrusions réseau par Data Mining — Random Forest **99.78%** sur 4.9M connexions | Python · scikit-learn · pandas |
+| [🔐 KDD Cup 1999 — Intrusion Detection](https://github.com/NASRHOUDA/kdd-cup-1999-data-mining-project) | Détection d'intrusions réseau par Data Mining — Random Forest **99.78%** sur 4.9M connexions | Python · scikit-learn · pandas |
 | [🍃 FoodSave](https://github.com/NASRHOUDA/foodsave-app) | Plateforme anti-gaspillage — matching commerçants/associations, WebSocket temps réel, CI/CD K8s | React · FastAPI · Node.js · Docker · K8s |
 | [🏥 MyHeart Healthcare](https://github.com/NASRHOUDA/myheart-healthcare-system) | Système de santé microservices event-driven — SAGA, Kafka/Redpanda, chatbot multilingue FR/EN/AR | Spring Boot · Node.js · Kafka · Consul |
 | [🌤️ Météo Maroc](https://github.com/NASRHOUDA/meteo-maroc-dashboard) | Pipeline Data Engineering complet — 19 villes, orchestration Airflow, dashboard Streamlit, Grafana | Python · MongoDB · Airflow · Streamlit |
-| [🤖 FASTCUBE — Matching CV/Missions](https://github.com/NASRHOUDA/fastcube) | Plateforme intelligente de matching avec web scraping et RPA — stage INPT | Node.js · React · MySQL · BeautifulSoup · RPA |
+| [🤖 FASTCUBE — Matching CV/Missions](https://github.com/NASRHOUDA/CV-MATCHING) | Plateforme intelligente de matching avec web scraping et RPA — stage INPT | Node.js · React · MySQL · BeautifulSoup · RPA |
 
 ---
 
