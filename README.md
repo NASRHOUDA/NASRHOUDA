@@ -2,7 +2,7 @@
 
 # Houda NASR
 
-**Data Engineer · Cloud DevOps **
+**DevOps & Data Engineer | Cloud Infrastructure **
 
 *Étudiante ingénieure 2ème année — INPT, Filière SUD (Cloud & IoT) · Casablanca, Maroc*
 
@@ -19,7 +19,12 @@
 
 ## À propos
 
-Je conçois des **pipelines de données robustes**, des **architectures microservices** et des **infrastructures DevOps automatisées**. De la collecte brute jusqu'à la visualisation, je couvre l'intégralité de la chaîne data — y compris le web scraping (APIs, BeautifulSoup, Selenium) et l'automatisation RPA.
+⚡ Je ne livre pas des données. Je livre des décisions.
+
+Automatiser les pipelines, orchestrer les microservices, déployer en continu — c'est mon ADN. Je construis des infrastructures DevOps où la donnée ne dort jamais : du scraping à la prédiction, du stockage à la visualisation temps réel.
+
+🎯 Mon ambition ? Créer des systèmes où la data ne se contente pas d'informer, mais déclenche l'action — avec une infrastructure fiable, scalable et entièrement automatisée.
+
 
 > 🔍 **Disponible pour un stage PFA de 2 à 3 mois à partir de Juin 2026**
 
